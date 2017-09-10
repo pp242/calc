@@ -81,6 +81,7 @@ if ( num1 >= 0 || num1 < 0){
 		output = (Math.pow(num1,1/2));
 		console.log(num1 + ' square root is = ');
 	}
+	
 	else{
 		console.log('well done you broke it you typed in the wrong letter, please refresh and try again')
 	}
