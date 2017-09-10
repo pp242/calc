@@ -11,7 +11,7 @@ if ( num1 >= 0 || num1 < 0){
 		var num2 = prompt('Please enter the last number of your calculation','Here please');
 		num1 = parseFloat(num1);
 		num2 = parseFloat(num2);
-		
+		 
 		if ( num2 >= 0 || num2 < 0){
 			output = (num1 + num2);
 			console.log(num1 + ' and ' + num2 + ' add together to make = ');
